@@ -25,17 +25,17 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_OP = [
     [
-        Button.url("ꜱᴇɴꜱᴇɪ 🥀", "https://t.me/Kexx_XD"),
-        Button.url("ꜱᴜᴘᴘᴏʀᴛ ✨", "https://t.me/STORM_CHATZ"),
+        Button.url("🌹ʙᴇᴀᴜᴛʏ🌹", "https://t.me/itsRareBeautySelenaGomez"),
+        Button.url("❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥", "https://t.me/knight_society"),
     ],
     [
         Button.url(
-            "ɢʀᴏᴜᴘ 🧸", "https://t.me/FriendCastel"
+            "🪷ɢʀᴏᴜᴘ🪷", "https://t.me/knight_society"
         ),
     ],
     [
-        Button.url("ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ❄️", "https://github.com/VARC9210/STORM"),
-        Button.url("ᴄʜᴀɴɴᴇʟ ☁️", "https://t.me/STORM_TECHH"),
+        Button.url("👿ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ👿", "https://te.legra.ph/file/ec19cf227791a167abedc.jpg"),
+        Button.url("☁️ᴄʜᴀɴɴᴇʟ☁️", "https://t.me/itsRareBeautySelenaGomez"),
     ],
 ]
 
@@ -55,13 +55,13 @@ async def start(event):
         bot_name = KEX.first_name
         bot_id = KEX.id
         TEXT = f"**ʜᴇʏ [{event.sender.first_name}]\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n➖➖➖➖➖➖➖➖➖➖➖\n"
-        TEXT += f"» **ꜱᴇɴꜱᴇɪ : [⏤͟͞〲ᴋᴇx](https://t.me/kexx_xd)**\n"
+        TEXT += f"» **ᴀɴɪᴍᴀʟ : [❤️‍🔥ᴊᴀɴᴡᴀʀ❤️‍🔥](https://t.me/AnimalJanwarrrr)**\n"
         TEXT += f"» **ꜱᴛᴏʀᴍ :** `M3.0` \n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ :** `3.11` \n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ :** `{__version__}`\n➖➖➖➖➖➖➖➖➖➖➖"        
         await event.client.send_file(
                     event.chat_id,  
-                    "https://graph.org/file/7f4da811955cc9c3c763f.jpg",
+                    "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
                     caption=TEXT, 
                     buttons=START_OP
                 )
