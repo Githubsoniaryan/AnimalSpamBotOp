@@ -35,7 +35,7 @@ from os import execl, getenv
 from telethon.tl.functions.channels import LeaveChannelRequest
 
 pongg = "ᴀ ɴ ɪ ᴍ ᴀ ʟ"
-PIC = "https://graph.org/file/5d4a2dbf4f196fcdfe4d2.mp4"
+PIC = "https://te.legra.ph/file/82465361fb9dc86b148f3.jpg"
 Alivemsg = "ᴀɴɪᴍᴀʟ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
 
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ᴀɴɪᴍᴀʟ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
