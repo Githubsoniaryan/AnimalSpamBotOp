@@ -125,7 +125,7 @@ extra_msg = f"""
 🔸 {hl}ꜱʀᴀɪᴅ (ᴄᴏᴜɴᴛᴇʀ) (ᴜꜱᴇʀɴᴀᴍᴇ)
 🔸 {hl}ꜱʀᴀɪᴅ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ) 
 
-**© @KKEX_XD**
+**© @Animaljanwarrrr**
 """
 
 
@@ -137,7 +137,7 @@ owner_msg = f"""
 👨‍💻 ᴜꜱᴀɢᴇ :
 🔸 {hl}ᴀᴅᴅꜱᴜᴅᴏ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ)
 
-**© @KKEX_XD**
+**© @AnimalJanwarrrr**
 """      
           
 raid_msg = f"""
@@ -161,7 +161,7 @@ raid_msg = f"""
 🔸 {hl}ᴅʀʀᴀɪᴅ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ)
 🔸 {hl}ᴅʀʀᴀɪᴅ (ᴜꜱᴇʀɴᴀᴍᴇ)
 
-**© @KKEX_XD**
+**© @AnimalJawarrrr**
 """
 
 spam_msg = f"""
